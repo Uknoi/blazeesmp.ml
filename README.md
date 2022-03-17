@@ -18,5 +18,5 @@ So I choosed my own SMP's website and redesigned it. It's a responsive website m
 ### Screenshots:
 `Will be there soon...`
 
-### Made by Eagle!
+### Made by NotVexPro!#7107
 ![madeByEagle](https://socialify.git.ci/Uknoi/blazeesmp.ml/image?description=1&font=Inter&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
