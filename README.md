@@ -2,7 +2,7 @@
 
 Hi guys today I have created a responsive website in HTML, CSS and JavaScript make sure to check this out!
 
-[![CodeFactor](https://www.codefactor.io/repository/github/eagle1309/eagle-smp-web-v2/badge/main)](https://www.codefactor.io/repository/github/eagle1309/eagle-smp-web-v2/overview/main)
+
 
 
 ### About this Project:
@@ -17,6 +17,9 @@ So I choosed my own SMP's website and redesigned it. It's a responsive website m
 
 ### Screenshots:
 https://media.discordapp.net/attachments/948550180951687179/953895373775179796/preview.PNG?width=879&height=427
+
+### Developers:
+[NotVexPro!37107 - Plex Development](https://dsc.gg/manloje)
 
 ### Made by NotVexPro!#7107
 ![madeByEagle](https://socialify.git.ci/Uknoi/blazeesmp.ml/image?description=1&font=Inter&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
