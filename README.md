@@ -25,4 +25,5 @@ https://media.discordapp.net/attachments/948550180951687179/953895373775179796/p
 Coming Soon!
 
 ### Made by NotVexPro!#7107
-![madeByEagle](https://socialify.git.ci/Uknoi/blazeesmp.ml/image?description=1&font=Inter&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+![madeByvex](https://socialify.git.ci/Uknoi/blazeesmp.ml/image?description=1&font=Inter&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
+
